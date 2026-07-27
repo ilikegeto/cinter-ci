@@ -1,0 +1,12 @@
+func do_that() {
+    log.print("that");
+    let ai = "ooy";
+    log.print(ai);
+    do_this();
+};
+func do_this() {
+    log.print("this");
+};
+do_that();
+yo676767();
+

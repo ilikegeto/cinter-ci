@@ -1,0 +1,5 @@
+func gtw(x)
+{
+    log.print("halo");
+};
+gtw();
